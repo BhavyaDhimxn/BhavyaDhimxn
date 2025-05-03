@@ -20,13 +20,13 @@ I'm a **pre-final year B.Tech student** specializing in **Cloud Computing & Virt
 
 ## 🔥 Featured Projects
 
-### 🔁 Tigers' Migration prediction Web Application
+###  Tigers' Migration prediction Web Application
 A wildlife-driven platform for tiger reservation, built with Streamlit, python and ML.
 
-### 🏏 Automated Poultry Counter
+###  Automated Poultry Counter
 Automated poultry detection and counting using computer vision.
 
-### 😄 Machine Learning Workflow App
+###  Machine Learning Workflow App
 AI-powered low complexity model and workflow creation app.
 
 ---
