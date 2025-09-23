@@ -54,7 +54,7 @@ AI-powered low complexity model and workflow creation app.
 - 💼 [LinkedIn](https://www.linkedin.com/in/bhavyadhiman24/)
 - 🧑‍💻 [GitHub](https://github.com/BhavyaDhimxn)
 - 🧠 [Leetcode](https://leetcode.com/u/U0DcRXy8IM/)
-- 🌐 [Portfolio](https://harshjindal18.github.io/portfolio/)
-- 📧 Email: bhavyadhiman@gmail.com
+- 🌐 [Portfolio](https://bhavyadhimxn.github.io/FinalPortfolio/)
+- 📧 Email: bhavyadhiman2428@gmail.com
 
 Let's connect and collaborate on exciting tech projects! 🚀
